@@ -13,12 +13,12 @@ This is a boilerplate project for Node.js web applications. It includes the foll
 ## Installation
 
 To use this boilerplate, you need to have Node.js and MongoDB installed on your system. You can install them using the following commands:
-" sudo apt-get install nodejs
-sudo apt-get install mongodb"
+"sudo apt-get install nodejs"
+"sudo apt-get install mongodb"
 
 
 Once you have installed Node.js and MongoDB, you can clone the repository and install the dependencies using the following commands:
 
-"git clone https://github.com/anush97/node-boilerplate.git
-cd node-boilerplate
-npm install "
+"git clone https://github.com/anush97/node-boilerplate.git"
+"cd node-boilerplate"
+"npm install"
